@@ -1,0 +1,25 @@
+﻿l_french:
+ short_colonial_australia: "Australie orientale"
+ colonial_australia: "Australie orientale coloniale"
+ COLONIAL_aus_east: "Australie orientale [Root.GetAdjective]"
+ COLONIAL_aus_east_ADJ: "d'Australie orientale [Root.GetAdjective]"
+
+ short_colonial_canada: "Ontario"
+ colonial_canada: "Ontario colonial"
+ colonial_canada_area: "Ontario [Root.GetAdjective]"
+ colonial_canada_area_ADJ: "ontarien [Root.GetAdjective]"
+
+ short_colonial_eastern_america: "Virginie"
+ colonial_eastern_america: "Virginie coloniale"
+ colonial_eastern_america_area: "Virginie [Root.GetAdjective]"
+ colonial_eastern_america_area_ADJ: "virginien [Root.GetAdjective]"
+
+ short_colonial_the_carribean: "Hispaniola"
+ colonial_the_carribean: "Hispaniola coloniale"
+ colonial_the_carribean_area: "Hispaniola [Root.GetAdjective]"
+ colonial_the_carribean_area_ADJ: "hispaniolan [Root.GetAdjective]"
+
+ short_colonial_brazil: "Brésil central"
+ colonial_brazil: "Brésil central colonial"
+ COLONIAL_brazil_central: "Brésil central [Root.GetAdjective]"
+ COLONIAL_brazil_central_ADJ: "du Brésil central [Root.GetAdjective]"
